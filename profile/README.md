@@ -48,6 +48,8 @@ side, on one substrate, by hand — the *comparison*, not the modes.
 
 ## Docs
 
+Rendered site: **<https://monarch-epistemologies.github.io/.github/>**
+
 - [Retrieval epistemologies](../docs/retrieval_epistemologies.md) — the five modes, and how each system knows.
 - [Use cases](../docs/use_cases.md) — computational phenotyping, cohort discovery, drug repurposing.
 - [Related work: Phenomics Assistant](../docs/related_work_phenomics_assistant.md) — the external tool-calling comparison point.

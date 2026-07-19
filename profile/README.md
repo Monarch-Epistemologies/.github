@@ -23,6 +23,10 @@ grounding is symbolic and inspectable or learned and opaque:
 
 Full treatment: [docs/retrieval_epistemologies.md](../docs/retrieval_epistemologies.md).
 
+The single substrate is the boundary, not an incidental detail. Holding the graph
+fixed is what makes the modes comparable. Exploring a different graph — KaBOB, say
+— would be a separate organization rather than another project here.
+
 ## Projects (entrypoints)
 
 Each project is a working system and an instance of one or more modes. KG-RAG is

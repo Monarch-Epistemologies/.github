@@ -21,7 +21,7 @@ grounding is symbolic and inspectable or learned and opaque:
 - **Text embedding** — closeness of node *text* in a learned vector space.
 - **Network embedding** — linkage predicted from graph *topology*.
 
-Full treatment: [docs/retrieval_epistemologies.md](../docs/retrieval_epistemologies.md).
+Full treatment: [Epistemologies of retrieval](https://monarch-epistemologies.github.io/retrieval_epistemologies/).
 
 The single substrate is the boundary, not an incidental detail. Holding the graph
 fixed is what makes the modes comparable. Exploring a different graph — KaBOB, say
@@ -48,12 +48,13 @@ side, on one substrate, by hand — the *comparison*, not the modes.
 
 ## Docs
 
-Rendered site: **<https://monarch-epistemologies.github.io/.github/>**
+Rendered site: **<https://monarch-epistemologies.github.io/>**
+(source: [monarch-epistemologies.github.io](https://github.com/Monarch-Epistemologies/monarch-epistemologies.github.io))
 
-- [Retrieval epistemologies](../docs/retrieval_epistemologies.md) — the five modes, and how each system knows.
-- [Results](../docs/results.md) — the running scoreboard: every method measured so far on one substrate and one answer key, and what is not yet measured.
-- [Use cases](../docs/use_cases.md) — computational phenotyping, cohort discovery, drug repurposing.
-- [Research plan integration](../docs/research_plan_integration.md) — the five-phase comparison, mapped against what is built, measured, or missing.
-- [Positioning & future directions](../docs/future_directions.md) — where this sits against the literature, and the next measurements worth making.
-- [Related work — methods lineage](../docs/related_work.md) — the LBNL / Haendel-group line these methods descend from.
-- [Related work: Phenomics Assistant](../docs/related_work_phenomics_assistant.md) — the external tool-calling comparison point.
+- [Retrieval epistemologies](https://monarch-epistemologies.github.io/retrieval_epistemologies/) — the five modes, and how each system knows.
+- [Results](https://monarch-epistemologies.github.io/results/) — the running scoreboard: every method measured so far on one substrate and one answer key, and what is not yet measured.
+- [Use cases](https://monarch-epistemologies.github.io/use_cases/) — computational phenotyping, cohort discovery, drug repurposing.
+- [Research plan integration](https://monarch-epistemologies.github.io/research_plan_integration/) — the five-phase comparison, mapped against what is built, measured, or missing.
+- [Positioning & future directions](https://monarch-epistemologies.github.io/future_directions/) — where this sits against the literature, and the next measurements worth making.
+- [Related work — methods lineage](https://monarch-epistemologies.github.io/related_work/) — the LBNL / Haendel-group line these methods descend from.
+- [Related work: Phenomics Assistant](https://monarch-epistemologies.github.io/related_work_phenomics_assistant/) — the external tool-calling comparison point.

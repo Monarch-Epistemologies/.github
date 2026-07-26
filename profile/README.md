@@ -51,5 +51,9 @@ side, on one substrate, by hand — the *comparison*, not the modes.
 Rendered site: **<https://monarch-epistemologies.github.io/.github/>**
 
 - [Retrieval epistemologies](../docs/retrieval_epistemologies.md) — the five modes, and how each system knows.
+- [Results](../docs/results.md) — the running scoreboard: every method measured so far on one substrate and one answer key, and what is not yet measured.
 - [Use cases](../docs/use_cases.md) — computational phenotyping, cohort discovery, drug repurposing.
+- [Research plan integration](../docs/research_plan_integration.md) — the five-phase comparison, mapped against what is built, measured, or missing.
+- [Positioning & future directions](../docs/future_directions.md) — where this sits against the literature, and the next measurements worth making.
+- [Related work — methods lineage](../docs/related_work.md) — the LBNL / Haendel-group line these methods descend from.
 - [Related work: Phenomics Assistant](../docs/related_work_phenomics_assistant.md) — the external tool-calling comparison point.

@@ -12,9 +12,17 @@ theme:
 
 nav:
   - Home: index.md
-  - Epistemologies of Retrieval: retrieval_epistemologies.md
-  - Use Cases: use_cases.md
-  - "Related Work: Phenomics Assistant": related_work_phenomics_assistant.md
+  - The argument:
+      - Epistemologies of Retrieval: retrieval_epistemologies.md
+      - Use Cases: use_cases.md
+  - Evidence:
+      - Results: results.md
+  - Plan:
+      - Research Plan Integration: research_plan_integration.md
+      - Positioning & Future Directions: future_directions.md
+  - Background:
+      - Related Work — Methods Lineage: related_work.md
+      - "Related Work: Phenomics Assistant": related_work_phenomics_assistant.md
 
 plugins:
   - search
